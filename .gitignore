@@ -1,6 +1,5 @@
 #Configs
 client/.env.development
-client/.env.production
 server/config/config.js
 server/config/config.js.bak
 
